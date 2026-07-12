@@ -20,7 +20,8 @@ st.set_page_config(
 )
 
 st.title("🎬 KGF 2 Movie Review Analyzer")
-st.markdown("Analyze user reviews using your trained LLM/GenAI model.")
+st.markdown("Analyze user reviews using your trained LLM/GenAI model."
+           "Project By Aditi Srivastava with roll no.2401221550005")
 
 # -----------------------------
 # Session State
